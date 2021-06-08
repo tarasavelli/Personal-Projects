@@ -1,0 +1,1 @@
+A program that allows users to search and find movies that fit their preferences. This was a group project, so I am uploading the portions that I wrote. I wrote the underlyinig hashtable structure that stored the movies and allowed for quick retrieval times.
